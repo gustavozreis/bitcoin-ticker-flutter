@@ -26,11 +26,7 @@ const List<String> currenciesList = [
   'ZAR'
 ];
 
-const List<String> cryptoList = [
-  'BTC',
-  'ETH',
-  'LTC',
-];
+const List<String> cryptoList = ['BTC', 'ETH', 'LTC', 'DOGE', 'SOL'];
 
 const apiKey = '84F56E9A-1675-4C65-898F-06630CDD5DE2';
 const apiUrl = 'https://rest.coinapi.io/v1/exchangerate';
